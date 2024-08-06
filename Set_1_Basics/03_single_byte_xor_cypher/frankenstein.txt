@@ -1,0 +1,139 @@
+Frankenstein (c) 1987 CLR Group PLC - Complete Documentation
+------------------------------------------------------------
+
+FRANKENSTEIN
+
+BY ROD PIKE
+
+Thus it was that I came to the Pinnacle of my researches. Convinced that I
+had been given divine insight, I made a momentous and subsequently
+catastrophic decision. I, Doctor Victor Frankenstein, would create a human
+being, a beautiful person of high intellect. Then...Then I would breathe
+life into him!
+
+Oh how conceited we mortals are! For months I worked, through day and
+night. With only feeble daylight, barely able to penetrate the now filthy
+windows, to comfort me. By night...By night my task took on an unearthly,
+bizarre atmosphere. My...creation lit by a guttering oil lamp assumed a
+hideous countenance. Its flesh not pink and soft, but of coarse and waxen
+pallor. Its eyes...Just staring...Devoid of all emotion. Glazed, watery:
+A dull jaundiced yellow.
+
+Because of the delicate surgery involved I had chsen to work to the
+largest scale possible. I paid unofficial visits to charnel houses to
+select, and subsequently amputate the most powerful pieces for my jigsaw.
+What gruesome work! Corpses vacantly staring as I hacked them apart!
+
+So..On a damp and misty evening in November I brought it to life! What a
+fool I was! Its eyes slowly focused on me. It arose, ponderously and in
+apparent pain. It staggered towards me reaching out with its massive arms.
+A gutteral cry exuded from its twisted, misshapen lips. A base and animal
+like sound! As this...abomination approached, towering above me, I felt
+that a cruel trick had been played on me. I had the power of life, the
+ability to create something beaytiful. Yet before me stood the results of
+my pathetic effort. Ugly and deformed. Covered in a network of livid scar
+tissue. His black lifeless hair fell across his face which was hideous
+beyond belief. Panic seized me...I turned and fled, leaving the door open.
+
+I paced the streets all night unable to think of anything other than my
+foolhardiness. The sun was rising as I returned to my house. My heart
+pounded! What would I find? I entered furtively, looking beyond every
+shadow. Then I summoned up enough courage to enter my laboratory...
+Nothing! He was gone, Oh happy day!
+
+That was four years ago. I had virtually erased him from my memory, and
+my researchers now followed a more conventional approach. Then tragedy
+struck. My sister, a mere twenty two years old was murdered. A monstrous
+giant was seen to strangle her before hurling her body from a cliff top,
+onto the rocks below. My duty is clear. To her memory, and to the world,
+I must find him and destroy him if I can!
+
+One thing I have learned from this, is man's place in the scheme of
+things. True, I gave the being life, strength and movement. What I could
+
+never give him was...a soul...
+
+PART ONE: HARD JOURNEY
+
+Doctor Frankenstein has arrived at his fathers house in Switzerland.
+From here he plans to start the hunt for the monster that he created
+four years previously. This being, who so brutally murdered his younger
+sister must be destroyed. The creature has been sighted over the years,
+but no one has had the courage to track him down. The last reliable
+sightings were in the mountain range, on the other side of the lake.
+
+
+PART TWO: THE SLAYING
+
+The Doctor is fortunate enough to discover a cottage in the woods,
+where he can get shelter from the cold night. The old blind man and the
+young women who reside there have an horrific and tragic tale to tell.
+The morning brings horrors anew, which harden the Doctor's resolve to
+destroy his creation.
+
+On arrival at the village of Chamont, he decides, after talking to one
+or two people , that he must fully arm and eqip himelf if he is to stand
+a chance. This is not quite so simple. You didn't really expect it to be
+did you?
+
+And so he embarks on his journey. Here, his adversary mockingly displays
+his superhuman agility...and yet never gets so far ahead, that the
+Doctor loses the scent. Odd...most odd.
+
+The final confrontation takes place in a derelict chateau, high in a
+mountain pass. Make no mistake about it. There will be blood and carnage
+at the end...There has to be...The question is...Whose blood?...
+
+PART 3: THE MONSTER'S STORY
+
+A being wakes...He knows nothing of who or where he is. All he has are
+vague images in his mind, which mean nothing to him...and a lot of pain.
+
+You will play out his part and discover what made him a killer. But in
+doing so, you must increase your IQ level. After all you started off
+knowing nothing, and to survive you must learn quickly...very quickly.
+
+GENERAL INSTRUCTIONS
+
+LOADING: Shift Run/Stop
+
+SAVING PART GAME: Insert blank tape. type SAVE and press return. Type
+in your game save name and press return. On completion of save, you will
+be returned to your saved position.
+
+LOADING A SAVED GAME: Load in the main game. Then insert your game save
+tape and type LOAD and press return. Then enteryour saved name, press
+return and you will be taken to your saved position.
+
+SPECIAL COMMANDS AND INSTRUCTIONS
+
+For Inventory type X in all parts
+
+Review location situation, type LOOK, LOOK AROUND, SEARCH, EXPLORE and
+EXAMINE things and places.
+
+Multiple commands are possible if separated by 'and' or 'then' or ','.
+ie: Get the knife and throw it. Or, get the gun, load it, fire gun.
+
+Directional commands are usual N,S,E,W,U,D.
+
+Part two conatins a conversation module. To engage in speech enter SAY,
+(don't forget the command followed by your message. Try not to make
+your conversation to complex though! ie: say, have you seen the monster
+(return) would be accepted.
+
+Part three is a bit different. You are responsible for the monster's
+intelligence, among other things. Monitor this with IQ (return). In fact
+you have a lot of responsibility in this part. Use all senses of
+thought, sight, smell, hearing etc, (think, watch, listen and so on).
+For this, coupled with your experiences will increase your IQ.
+
+One final word. To retain the integrity of Mary Shelly's original
+character, part three will only be accessible to those of you who
+complete parts one and two. I request that players getting this far,
+keep the relevant information a secret, after all, it was hard won. This
+will ensure that the pleasure for other players will not be spoiled.
+
+Rod Pike
+
+Instructions typed by Paul Thompson, March 2003
